@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ - AI Resume Analyzer & ATS Audit Engine",
+  "description": "Transform your resume with instant automated ATS screening, keyword optimization, and recruiter-ready scoring powered by n8n workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
